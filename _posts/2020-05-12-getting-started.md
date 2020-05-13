@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Put up a post! Check it out"
 ---
 
