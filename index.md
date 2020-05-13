@@ -39,3 +39,8 @@ We'll be posting all the updates here on this page. Do visit and feel free to gi
     </li>
   {% endfor %}
 </ul>
+
+{% assign author = site.data.authors[page.author] %}
+{% if author %}
+{% include author.html %}
+{% endif %}
