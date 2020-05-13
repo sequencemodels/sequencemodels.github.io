@@ -5,7 +5,9 @@ layout: default
 
 {{ content }}
 
-{% assign author = site.data.authors[page.author] %}
-{% if author %}
-{% include author.html %}
-{% endif %}
+<footer>
+{% assign author = site.authors[page.author] %}
+  <p class="byline">
+      by {{ author.display_name }}
+    </p> <!-- /.byline -->
+</footer>
