@@ -40,3 +40,10 @@ We'll be posting all the updates here on this page. Do visit and feel free to gi
   {% endfor %}
 </ul>
 
+<footer>
+{% assign author = site.authors[page.author] %}
+  <p class="byline">
+      by {{ author.display_name }}
+    </p> <!-- /.byline -->
+</footer>
+
