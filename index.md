@@ -29,7 +29,7 @@ It is a very exciting time to delve into the ocean of Language understanding. If
 
 And finally, we move on to _**The third epoch**_. This includes various breakthrough models using _Deep-Learning Networks_ and _Representation Learning_. This was facilitated by increasing research in the domains of _Unsupervised_ and _Semi-Supervised_ learning algorithms. These techniques used together gave unprecedented _state-of-the-art_ results. In our blog, we shall mostly focus on the techniques which were developed in this third epoch.
 
-A big motivation for starting this blog was the fact that, Natural Language Processing is a highly sought after _but_ an equally technially demanding field. It is very difficult to follow the various research trends which emerge. So, we aim to provide casual readers and enthusiasts a place to start. A place where one can find documented explanations for a wide variety of research papers in the domain. It's a place where we'll all learn along the way. _You_, while reading this blog and _us_ while trying to explain!
+A big motivation for starting this blog was the fact that, Natural Language Processing is a highly sought after _but_ an equally technically demanding field. It is very difficult to follow the various research trends which emerge. So, we aim to provide casual readers and enthusiasts a place to start. A place where one can find documented explanations for a wide variety of research papers in the domain. It's a place where we'll all learn along the way. _You_, while reading this blog and _us_ while trying to explain!
 
 We'll be posting all the updates here on this page. Do visit and feel free to give us feedbacks or suggestions regarding the content, or any questions that you may deem us fit for answering.  
 <ul>
