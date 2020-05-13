@@ -9,7 +9,7 @@ author:
 
 TARS-The very lovable, chatty, and 70% sarcastic robot. For those of you who don't follow the reference, I suggest you go to [this](https://interstellarfilm.fandom.com/wiki/TARS) link and learn what this Robot from the movie Interstellar was. 
 
-[_Source_](https://i.imgur.com/yaVftzT.jpg)
+
 ![If your internet is slow, this was an image of TARS rolling](https://i.imgur.com/yaVftzT.jpg)
 
 
@@ -22,8 +22,6 @@ So what is this blog? If one were to blindfold themself and made to sit and talk
 
 It is a very exciting time to delve into the ocean of Language understanding. If I may daresay, this is the _**third epoch**_ of NLP. _**The first epoch**_ was in the decades surrounding the _1960s_, where most of the research was based on hand written rules and annotated grammars. This trend continued to highly demotivate researchers due to the slowness of any significant breakthroughs. The computation power was low, and rule-based approaches were saturating very quickly. But then, just as all was apparently lost, and researchers gave up hopes of actually building systems that could understand language, _entered the Dragon_. Cometh the 1980's, and with it, the introduction of Machine Learning algorithms for language processing. This would be, what we call _**The second epoch**_. Also, a simultaneous increase in computation power complemented them. Along with these algorithms, revolutionary [_Hidden Markov Models_](https://web.stanford.edu/~jurafsky/slp3/A.pdf) led the way making use of statistical probabilities for Language modelling. IBM Research emerged as one of the leading institutions where increasingly effecient statistical models were developed.
 
-
-[_Source_](https://i.pinimg.com/474x/71/4b/0e/714b0ed301c1b92db29d0f7ed24419bd.jpg)
 
 ![I feel sorry for ypur Internet provider :( ](https://i.pinimg.com/474x/71/4b/0e/714b0ed301c1b92db29d0f7ed24419bd.jpg)
 
