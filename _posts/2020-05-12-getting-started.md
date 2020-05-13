@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Put up a post! Check it out"
+title:  "New post! Check it out"
 ---
 
-# Welcome
+## Sorry didn't quite catch that. Care to vectorize?
 
-**Transformers Transform**.
-
-Dark Side of The Moon!
+A post on **Word Embeddings**. Still under construction. Come back soon? 
