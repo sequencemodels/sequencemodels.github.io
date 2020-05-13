@@ -40,10 +40,7 @@ We'll be posting all the updates here on this page. Do visit and feel free to gi
   {% endfor %}
 </ul>
 
-<footer>
-{% assign author = site.authors[page.author] %}
-  <p class="byline">
-      by {{ author.display_name }}
-    </p> <!-- /.byline -->
-</footer>
+---------------------
+## Authors
+**[Siddhartha Dwivedi](https://www.linkedin.com/in/siddharthad2212/) and [Hrikshit Raj Chauhan](https://www.linkedin.com/in/hrikshit-raj-c-643256136/)**
 
