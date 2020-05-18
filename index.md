@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Home
 author: 
 - s_dwivedi
 - hrc
