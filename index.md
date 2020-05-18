@@ -38,10 +38,3 @@ And finally, we move on to _**The third epoch**_. This includes various breakthr
 A big motivation for starting this blog was the fact that, Natural Language Processing is a highly sought after _but_ an equally technically demanding field. It is very difficult to follow the various research trends which emerge. So, we aim to provide casual readers and enthusiasts a place to start. A place where one can find documented explanations for a wide variety of research papers in the domain. It's a place where we'll all learn along the way. _You_, while reading this blog and _us_ while trying to explain!
 
 We'll be posting all the updates here on this page. Do visit and feel free to give us feedbacks or suggestions regarding the content, or any questions that you may deem us fit for answering.  
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
