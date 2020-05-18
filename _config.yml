@@ -2,6 +2,8 @@ theme: jekyll-theme-cayman
 title: A chat with TARS - Natural Language Understanding
 description: A timid journey through the advancements in Natural Language Processing
 layout: default
+collections:
+  authors:
 
 defaults:
   -
