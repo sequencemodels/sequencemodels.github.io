@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 title: A chat with TARS - Natural Language Understanding
 description: A timid journey through the advancements in Natural Language Processing
 layout: default
