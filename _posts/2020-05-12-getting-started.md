@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "New post! Check it out"
 ---
 
