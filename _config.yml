@@ -4,9 +4,14 @@ description: A timid journey through the advancements in Natural Language Proces
 layout: default
 collections:
   authors:
-
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 defaults:
-  -
   - scope:
       path: "" # Means all files in the project
       type: "posts"
