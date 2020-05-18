@@ -1,9 +1,5 @@
 ---
-layout: default
 title: Home
-author: 
-- s_dwivedi
-- hrc
 ---
 
 # Introduction 
@@ -49,8 +45,3 @@ We'll be posting all the updates here on this page. Do visit and feel free to gi
     </li>
   {% endfor %}
 </ul>
-
----------------------
-## Authors
-**[Siddhartha Dwivedi](https://www.linkedin.com/in/siddharthad2212/) and [Hrikshit Raj Chauhan](https://www.linkedin.com/in/hrikshit-raj-c-643256136/)**
-
