@@ -13,11 +13,6 @@ plugins:
   - jekyll-include-cache
 defaults:
   - scope:
-      path: "" # Means all files in the project
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
       path: ""
     values:
       layout: "default"
