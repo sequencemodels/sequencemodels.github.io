@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Home
 author: 
 - s_dwivedi
 - hrc
