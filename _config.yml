@@ -1,4 +1,4 @@
-#remote_theme: "mmistakes/minimal-mistakes@4.19.2"
+remote_theme: "BlackrockDigital/startbootstrap-clean-blog-jekyll"
 title: A chat with TARS - Natural Language Understanding
 description: A timid journey through the advancements in Natural Language Processing
 layout: default
@@ -17,4 +17,4 @@ defaults:
     values:
       layout: default
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
