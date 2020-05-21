@@ -11,8 +11,10 @@ title: Team
 <ul>
   {% for author in site.authors %}
     <li>
-      <h3>{{ author.name }}</h3> <a href={{author.linkedin}}><i class="fab fa-linkedin"></i></a> <a href={{author.hub}}><i class="fab fa-github"></i></a>
+      <h3>{{ author.name }}</h3>
       <p>{{ author.content | markdownify }}</p>
+      <a href={{author.linkedin}}><i class="fab fa-linkedin"></i></a>
+      <a href={{author.hub}}><i class="fab fa-github"></i></a>
     </li>
   {% endfor %}
 </ul>
